@@ -75,7 +75,7 @@ main {
   color: #fc200c;
 }
 .offer {
-  background-image: url(/assets/delivery.png);
+  background-image: url(https://daiterranova.github.io/assets/delivery.png);
   object-fit: cover;
   background-repeat: no-repeat;
   background-position: center;
